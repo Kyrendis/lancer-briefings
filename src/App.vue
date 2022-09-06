@@ -118,7 +118,7 @@ export default {
         "headerTitle": "Union Navy",
         "headerSubtitle": "Space Command",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Battlegroup Palladium",
+        "subheaderSubtitle": "Group Mjolnir",
       },
       "options":{
         "eventsMarkdownPerMission": true
